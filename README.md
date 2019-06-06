@@ -1,9 +1,11 @@
 # Dogs vs Cats
 Create an algorithm to distinguish dogs from cats
 
-Kaggle competition link: https://www.kaggle.com/c/dogs-vs-cats
+Kaggle competition: https://www.kaggle.com/c/dogs-vs-cats
 
-Link to from scratch model:
+Dataset: http://files.fast.ai/data/dogscats.zip
+
+From scratch model:
 
 http://s5.picofile.com/file/8362782334/cat_vs_dog.h5.html
 
