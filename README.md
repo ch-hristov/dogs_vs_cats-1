@@ -6,6 +6,15 @@ Kaggle competition: https://www.kaggle.com/c/dogs-vs-cats
 
 Dataset: http://files.fast.ai/data/dogscats.zip
 
+
+## Accuracies
+| Model name      |  Accuracy |
+|-----------------|--------------|
+| [CNN from scratch](https://drive.google.com/open?id=1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz) | 0.8863        |
+| [CNN from scratch with lower LR](https://drive.google.com/open?id=1R77HmFADxe87GmoLwzfgMu_HY0IhcyBz) | 0.9220        |
+| [CNN transfer learning](https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-) | 0.9953        |
+
+
 [Link](http://s3.picofile.com/file/8363012700/cnn_from_scratch.h5.html) to CNN from scratch model.
 
 
