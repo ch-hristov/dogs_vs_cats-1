@@ -15,7 +15,7 @@ Dataset: http://files.fast.ai/data/dogscats.zip
 | Total | 23,000 samples       | 2,000 samples       |
 
 
-## Accuracies
+## Results
 
 | Model name      |  Accuracy on validation set|
 |-----------------|--------------|
