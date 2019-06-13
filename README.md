@@ -19,7 +19,8 @@ Dataset: http://files.fast.ai/data/dogscats.zip
 
 | Model name      |  Accuracy on validation set|
 |-----------------|--------------|
-| Logistic Regression | 0.641        |
+| Logistic Regression | -        |
+| MLP | -        |
 | [CNN from scratch](http://s3.picofile.com/file/8363012700/cnn_from_scratch.h5.html) | 0.8863        |
 | [CNN from scratch with lower LR](http://s3.picofile.com/file/8363013842/cnn_from_scratch_lower_lr.h5.html) | 0.9220        |
 | [CNN transfer learning](http://s5.picofile.com/file/8363013568/cnn_transfer_learning.h5.html) | 0.9953        |
