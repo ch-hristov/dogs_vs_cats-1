@@ -12,6 +12,7 @@ Dataset: http://files.fast.ai/data/dogscats.zip
 |-----------------|--------------|--------------|
 | Dog | 11,500        | 1,000        |
 | Cat | 11,500        | 1,000        |
+| Total | 23,000 samples       | 2,000 samples       |
 
 
 ## Accuracies
