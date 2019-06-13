@@ -19,9 +19,9 @@ Dataset: http://files.fast.ai/data/dogscats.zip
 
 | Model name      |  Accuracy on validation set|
 |-----------------|--------------|
-| SVM linear kernel + PCA(feature extraction - 200 components) | -        |
-| KNN(K=3) + PCA(feature extraction - 200 components) | -        |
-| Gaussian Naive Bayes + PCA(feature extraction - 200 components) | -        |
+| Gaussian Naive Bayes + PCA(feature extraction - 200 components) | 0.582        |
+| KNN(K=3) + PCA(feature extraction - 200 components) | 0.5865        |
+| SVM linear kernel + PCA(feature extraction - 200 components) | 0.613        |
 | Logistic Regression(200,1) + PCA(feature extraction - 200 components) | 0.618        |
 | MLP(200,512,256,128,1) + PCA(feature extraction - 200 components) | 0.685        |
 | [CNN from scratch](http://s3.picofile.com/file/8363012700/cnn_from_scratch.h5.html) | 0.8863        |
