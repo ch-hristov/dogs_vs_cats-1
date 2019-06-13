@@ -6,6 +6,13 @@ Kaggle competition: https://www.kaggle.com/c/dogs-vs-cats
 
 Dataset: http://files.fast.ai/data/dogscats.zip
 
+## Dataset
+
+| Class      |  Training set|  Validation set|
+|-----------------|--------------|--------------|
+| Dog | 11,500        | 1,000        |
+| Cat | 11,500        | 1,000        |
+
 
 ## Accuracies
 
