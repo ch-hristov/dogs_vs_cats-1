@@ -17,7 +17,7 @@ Dataset: http://files.fast.ai/data/dogscats.zip
 
 ## Results
 
-| Model name      |  Accuracy on validation set|
+| Algorithms      |  Accuracy on validation set|
 |-----------------|--------------|
 | Gaussian Naive Bayes + PCA(feature extraction - 200 components) | 0.582        |
 | KNN(K=3) + PCA(feature extraction - 200 components) | 0.5865        |
